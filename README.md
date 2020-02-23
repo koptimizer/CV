@@ -7,24 +7,30 @@
 * Github : [github.com/KGJsGit](https://github.com/KGJsGit)
 * :heart_eyes: `AI` `NLP` `Optimization` `Data Analytics` `Visualization` :heart_eyes:
 
-# EDUCATION
-- Korea Polytechnic University (2016.03 ~)
-- Sang jeong High-school (2013.03 ~ 2016.02)
+과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.<br>
+공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.<br>
 
-# PERSONAL PROJECT
+
+# EDUCATION
+- Korea Polytechnic University (IT-Management & Computer-Science) (2016.03 ~)
+- Sang jeong High-chool (2013.03 ~ 2016.02)
+
+# PROJECT
 ## GA 
 ## JSP Web Project
 ## Chatbot Service
+## Smart Factory Idea Competition
 
 # TECHNICAL SKILLS
 ## 
-## Programming Language & Library
-- 
+## Programming Language & Framework
+- `Python` `Java` `Kotlin` `C/C++` `SQL`
 
 # OTHERS
 ## Language & Certificates
-- Korean : ●●●●●
-- English : ●●●○○ / TOEIC :
+- Korean : ★★★★★
+- English : ★★☆☆☆ / TOEIC : 690
 
 ## More views
-- 파이썬 뿌시는 이십대들 : https://github.com/KGJsGit/Python_Breakers
+- Personal Lecture of 'Python & Data Analytics' : https://github.com/KGJsGit/Python_Breakers
+- Personal Lecture of 'Git & Github' : https://github.com/KGJsGit
