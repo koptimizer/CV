@@ -5,7 +5,7 @@
 * 고광종(Gwang Jong Ko)
 * Email : ilovacoding@kakao.com / ko970710@gmail.com
 * Github : [github.com/KGJsGit](https://github.com/KGJsGit)
-* :heart_eyes: `AI` `NLP` `Optimization` `Data Analytics` `Visualization` :heart_eyes:
+* :heart_eyes: `AI` `NLP` `Optimization` `Data Analytics` `Visualization` `Automation` :heart_eyes:
 
 과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.<br>
 공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.<br>
@@ -13,24 +13,48 @@
 
 # EDUCATION
 - Korea Polytechnic University (IT-Management & Computer-Science) (2016.03 ~)
-- Sang jeong High-chool (2013.03 ~ 2016.02)
+- Sang jeong High-School (2013.03 ~ 2016.02)
+
 
 # PROJECT
-## GA 
-## JSP Web Project
+## Finding a suboptimal solution of the NP-Hard Problems with GA
+...
+## Shopping-mall webpage
+...
 ## Chatbot Service
-## Smart Factory Idea Competition
+...
+## Smart Factory Idea Competition - VACMA Kit
+...
+
 
 # TECHNICAL SKILLS
-## 
-## Programming Language & Framework
+## Data Analytics & Visualization
+- 주어진 원시 데이터를 available하게 조작할 수 있습니다.
+- 변수들의 관계가 더 잘 보이도록 하며 비즈니스 목적에 적절한 feature engineering을 수행 할 수 있습니다.
+- 여러 조사방법에 대해 알고있으며, 각종 통계적 개념에 대해 설명 할 수 있습니다.
+- 변수들의 종류에 따른 각종 시각화도구들에 대해 이해하고 있으며, 적절히 사용할 수 있습니다.
+- 회귀분석법을 통해 관계를 설명하거나 앞으로의 동향을 예측 할 수 있습니다.
+## ML
+- 기계학습의 개념을 이해하고 있으며, 다양한 방법과 분과에 대해 알고 있습니다.
+- 다양한 Library를 다루어 보았으며, ... (sklearn, tensorflow, pytorch)
+- 
+## Optimization
+- 다양한 실생활의 문제를 단순화/추상화하여 표현 할 수 있습니다.
+- NP-Hard문제를 Combinatorial Optimization methods를 통해 프로그래밍으로 접근 할 수 있습니다.
+## Automation
+- Kakao open builder, dialogflow기반의 자동화 chatbot을 구현할 수 있습니다.
+- 웹에서 필요한 정보를 crawling하는 자동화 프로그램을 짤 수 있습니다.
+## Programming Language
 - `Python` `Java` `Kotlin` `C/C++` `SQL`
+## Others
+- UX를 고려하여 디자인/프로그래밍할 수 있습니다.
+- 간단한 UI 및 로고를 디자인할 수 있습니다.
+
 
 # OTHERS
 ## Language & Certificates
 - Korean : ★★★★★
 - English : ★★☆☆☆ / TOEIC : 690
-
 ## More views
 - Personal Lecture of 'Python & Data Analytics' : https://github.com/KGJsGit/Python_Breakers
 - Personal Lecture of 'Git & Github' : https://github.com/KGJsGit
