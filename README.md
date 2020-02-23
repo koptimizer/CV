@@ -9,7 +9,7 @@
 * Github : [github.com/KGJsGit](https://github.com/KGJsGit)
 * :heart_eyes: `AI` `Optimization` `Data Analytics` `Visualization` `Automation` `music` :heart_eyes:
 
-과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.<br>
+* 과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.<br>
 공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.
 
 
@@ -47,6 +47,7 @@
 ## Automation
 - Kakao open builder, dialogflow기반의 자동화 chatbot을 구현할 수 있습니다.
 - 웹에서 필요한 정보를 crawling하는 자동화 프로그램을 짤 수 있습니다. (bs4, selenium)
+- ...
 ## Web Backend
 ...
 ## Devops
@@ -57,6 +58,7 @@
 ## Others
 - UX를 고려하여 디자인/프로그래밍할 수 있습니다.
 - 간단한 UI 및 로고를 디자인할 수 있습니다.
+- ...
 
 
 # :trophy:AWARDS
@@ -67,7 +69,6 @@
 ## Language & Certificates
 - Korean : ★★★★★
 - English : ★★☆☆☆ / TOEIC : 690
-- yaminjeonguem : ★★★★★★★★★★
 ## More views
 - Personal Lecture of 'Python & Data Analytics' : https://github.com/KGJsGit/Python_Breakers
 - Personal Lecture of 'Git & Github' : https://github.com/KGJsGit 
