@@ -11,12 +11,12 @@
 공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.<br>
 
 
-# EDUCATION
+# :mortar_board:EDUCATION
 - Korea Polytechnic University (IT-Management & Computer-Science) (2016.03 ~)
 - Sang jeong High-School (2013.03 ~ 2016.02)
 
 
-# PROJECT
+# :book:PROJECT
 ## Finding a suboptimal solution of the NP-Hard Problems with GA
 ...
 ## Shopping-mall webpage
@@ -27,7 +27,7 @@
 ...
 
 
-# TECHNICAL SKILLS
+# :dart:TECHNICAL SKILLS
 ## Data Analytics & Visualization
 - 주어진 원시 데이터를 available하게 조작할 수 있습니다.
 - 변수들의 관계가 더 잘 보이도록 하며 비즈니스 목적에 적절한 feature engineering을 수행 할 수 있습니다.
@@ -37,24 +37,32 @@
 ## ML
 - 기계학습의 개념을 이해하고 있으며, 다양한 방법과 분과에 대해 알고 있습니다.
 - 다양한 Library를 다루어 보았으며, ... (sklearn, tensorflow, pytorch)
-- 
+- ...
 ## Optimization
 - 다양한 실생활의 문제를 단순화/추상화하여 표현 할 수 있습니다.
 - NP-Hard문제를 Combinatorial Optimization methods를 통해 프로그래밍으로 접근 할 수 있습니다.
+- ...
 ## Automation
 - Kakao open builder, dialogflow기반의 자동화 chatbot을 구현할 수 있습니다.
 - 웹에서 필요한 정보를 crawling하는 자동화 프로그램을 짤 수 있습니다.
+## Web Backend
+...
+## Devops
+...
 ## Programming Language
 - `Python` `Java` `Kotlin` `C/C++` `SQL`
+- ...
 ## Others
 - UX를 고려하여 디자인/프로그래밍할 수 있습니다.
 - 간단한 UI 및 로고를 디자인할 수 있습니다.
 
 
-# OTHERS
+# :speech_balloon:OTHERS
 ## Language & Certificates
 - Korean : ★★★★★
 - English : ★★☆☆☆ / TOEIC : 690
+- yaminjeonguem : ★★★★★★★★★★
 ## More views
 - Personal Lecture of 'Python & Data Analytics' : https://github.com/KGJsGit/Python_Breakers
-- Personal Lecture of 'Git & Github' : https://github.com/KGJsGit
+- Personal Lecture of 'Git & Github' : https://github.com/KGJsGit 
+- ...
