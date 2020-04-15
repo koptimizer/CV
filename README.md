@@ -19,15 +19,9 @@
 
 
 # :book: PERSONAL PROJECTS
-## Finding a suboptimal solution of the NP-Hard Problems with GA
-...
-## Shopping-mall webpage
+## Metaheuristic
 ...
 ## Chatbot Service
-...
-## Smart Factory Idea Competition - VACMA Kit
-...
-## Paper review
 ...
 
 
