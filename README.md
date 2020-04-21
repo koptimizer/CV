@@ -27,11 +27,7 @@
 
 # :dart:TECHNICAL SKILLS
 ## Data Analytics & Visualization
-- 주어진 원시 데이터를 available하게 조작할 수 있습니다.
-- 변수들의 관계가 더 잘 보이도록 하며 비즈니스 목적에 적절한 feature engineering을 수행할 수 있습니다.
-- 여러 조사방법에 대해 알고있으며, 각종 통계적 개념에 대해 설명할 수 있습니다.
-- 변수들의 종류에 따른 각종 시각화도구들에 대해 이해하고 있으며, 적절히 사용할 수 있습니다.
-- 회귀분석법을 통해 관계를 설명하거나 앞으로의 동향을 예측할 수 있습니다.
+- ...
 ## ML
 ...
 ## Optimization
@@ -40,16 +36,12 @@
 - Kakao open builder, dialogflow기반의 자동화 chatbot을 구현할 수 있습니다.
 - 웹에서 필요한 정보를 crawling하는 자동화 프로그램을 짤 수 있습니다. (Python bs4/selenium)
 - ...
-## Web Backend
-...
 ## Devops
-...
+- ...
 ## Programming Language
 - `Python` `Java` `Kotlin` `C/C++` `SQL` ...
 - ...
 ## Others
-- UX를 고려하여 디자인/프로그래밍할 수 있습니다.
-- 간단한 UI 및 로고를 디자인할 수 있습니다.
 - ...
 
 
@@ -62,6 +54,6 @@
 - Korean : ★★★★★
 - English : ★★☆☆☆ / TOEIC : 690
 ## More views
-- Personal Lecture of 'Python & Data Analytics' : https://github.com/KGJsGit/Python_Breakers
-- Personal Lecture of 'Git & Github' : https://github.com/KGJsGit 
+- Personal Lectures of 'Python & Data Analytics' : https://github.com/KGJsGit/Python_Breakers
+- Personal Lectures of 'Git & Github' : https://github.com/KGJsGit 
 - ...
