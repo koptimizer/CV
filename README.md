@@ -17,9 +17,13 @@
 - Korea Polytechnic University (IT-Management & Computer-Science) (2016.03 ~)
 - Sang jeong High-School (2013.03 ~ 2016.02)
 
-# 💬 ORGANIZATION
+<br>
+
+# 💼 ORGANIZATION
 - 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~)
 - 파이썬 뿌수는 이십대들(파뿌리) 팀장 및 강의자 (2019.12.21 ~ 2020.02.28)
+
+<br>
 
 # :book: PERSONAL PROJECTS
 ### 메타휴리스틱의 구현과 RFS 고안 및 연구 [[...]](https://github.com/KGJsGit/my_Optimization-studio)
@@ -49,6 +53,8 @@
 - 해당 스터디강좌의 팀장이었고, 자료제작 및 강의 파트를 담당
 - 해당 자료와 소스코드는 깃헙에서 누구나 열람가능!
 
+<br>
+
 # :dart: TECHNICAL SKILLS
 ### Programming Language
 - `Python` `Java` `Kotlin` `C/C++` `SQL` ...
@@ -56,10 +62,12 @@
 ### Others
 - ...
 
+<br>
 
 # :trophy: AWARDS
 - 2019 스마트팩토리 아이디어 경진대회 : 대상
 
+<br>
 
 # :speech_balloon: OTHERS
 ### Language & Certificates
