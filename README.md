@@ -32,7 +32,7 @@
 - 하나의 점을 기준으로 해공간을 재귀적으로 탐색해 나가는 새 매타휴리스틱 알고리즘 RFS 고안 및 연구
 
 ### 한국산업기술대학교 챗봇 산돌이 개발 및 서비스 [[...]](https://github.com/KGJsGit/kakaotalk_chatbot_sandol)
-- kakao open builder와 python을 이용한 정보 제공 챗봇의 기획/디자인/서비스를 포함한 단독 개발
+- kakao open builder를 이용한 정보 제공 챗봇의 기획/디자인/서비스를 포함한 단독 개발
 - NLP 적용 검토중
 - 본교 학보 주간지xx호에 게재
 
