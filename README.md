@@ -1,4 +1,4 @@
-# :pencil: PROFILE
+# 📝 PROFILE
 <img alt="github profile image" src="https://avatars1.githubusercontent.com/u/29548128?s=400&u=2e375da7abe40b9e73ffd45cf6d8951dc173f8a5&v=4" width="200">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -13,7 +13,7 @@
 공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.
 ```
 
-# :mortar_board: EDUCATION
+# 🎓 EDUCATION
 - Korea Polytechnic University (IT-Management & Computer-Science) (2016.03 ~)
 - Sang jeong High-School (2013.03 ~ 2016.02)
 
@@ -25,7 +25,7 @@
 
 <br>
 
-# :book: PERSONAL PROJECTS
+# 📖 PERSONAL PROJECTS
 ### 메타휴리스틱의 구현과 RFS 고안 및 연구 [[...]](https://github.com/KGJsGit/my_Optimization-studio)
 - 메타휴리스틱 논문을 공부하고 이를 python으로 구현 
 - 각종 최적화 알고리즘과 효율적인 자료구조를 결합한 hybrid 알고리즘 개발
@@ -55,7 +55,7 @@
 
 <br>
 
-# :dart: TECHNICAL SKILLS
+# 🎯 TECHNICAL SKILLS
 ### Programming Language
 - `Python` `Java` `Kotlin` `C/C++` `SQL` ...
 - ...
@@ -64,12 +64,12 @@
 
 <br>
 
-# :trophy: AWARDS
+# 🏆 AWARDS
 - 2019 스마트팩토리 아이디어 경진대회 : 대상
 
 <br>
 
-# :speech_balloon: OTHERS
+# 💬 OTHERS
 ### Language & Certificates
 - Korean : ★★★★★
 - English : ★★☆☆☆ / TOEIC : 515(2019.11.24)
