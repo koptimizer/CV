@@ -7,7 +7,7 @@
 * 고광종(Gwang Jong Ko)
 * Email : ilovacoding@kakao.com / ko970710@gmail.com
 * Github : [github.com/KGJsGit](https://github.com/KGJsGit)
-* :heart_eyes: `Optimization` `Data Science` `Automation` `Web-Dev` `music` :heart_eyes:
+* 😍 `Optimization` `Data Science` `Automation` `Web-Dev` `music` 😍
 ```
 과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.
 공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.
@@ -59,6 +59,7 @@
 ### Programming Language
 - `Python` `Java` `Kotlin` `C/C++` `SQL` ...
 - ...
+
 ### Others
 - ...
 
@@ -73,5 +74,6 @@
 ### Language & Certificates
 - Korean : ★★★★★
 - English : ★★☆☆☆ / TOEIC : 515(2019.11.24)
+
 ### More views
 - instagram : j_g_ok
