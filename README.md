@@ -21,7 +21,10 @@
 
 # 💼 ORGANIZATION
 - 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~)
-- 파이썬 뿌수는 이십대들(파뿌리) 팀장 및 강의자 (2019.12.21 ~ 2020.02.28)
+- 어쿠스틱 버스킹 동아리 <소리새> 부회장 (2020.03.02 ~ )
+- 파뿌리 프로젝트(파이썬 뿌수는 이십대들) 팀장 및 강의자 (2019.12.21 ~ 2020.02.28)
+- 육군 3사단 22연대 화력지원중대 만기전역 (2017.07.11 ~ 2019.04.11)
+- 어쿠스틱 버스킹 동아리 <소리새> 공연부원 (2017.03.02 ~ 2017.06.28)
 
 <br>
 
@@ -36,7 +39,7 @@
 - NLP 적용 검토중
 - 본교 학보 주간지xx호에 게재
 
-### IDA lab 홈페이지 개발 [[...]](https://github.com/KGJsGit/IDALab.io)
+### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/KGJsGit/IDALab.io)
 - Ruby와 Jekyll, jekyll-theme을 이용한 랩실 홈페이지 단독 개발
 
 ### 진공챔버 예지보전 시스템 VACMA [[...]](https://github.com/KGJsGit/VACMA_KIT_prop)
@@ -44,8 +47,8 @@
 - 사업화(BM수립, 시장분석, 향후로드맵) 및 로켓피칭부문으로 대회 참가
 - 2019 스마트팩토리 아이디어 경진대회에서 대상 수상
 
-### 논문 읽기 프로젝트 - my_PaperLog [[...]](https://github.com/KGJsGit/my_PaperLog)
-- 한달에 2회 AI에 관련된 주요 논문읽기 프로젝트
+### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/KGJsGit/my_PaperLog)
+- 한달에 2회 AI에 관련된 주요 논문리뷰 프로젝트
 - since 2020.02
 
 ### 파뿌리(파이썬 뿌시는 이십대들) 프로젝트 [[...]](https://github.com/KGJsGit/Python_Breakers)
@@ -56,9 +59,9 @@
 <br>
 
 # 🎯 TECHNICAL SKILLS
-### Programming Language
-- `Python` `Java` `Kotlin` `C/C++` `SQL` ...
-- ...
+### Programming Language & Framework
+- `Python` `Java` `C/C++` `SQL` `JS` `HTML/CSS`...
+- `React` `Django` `Flask`
 
 ### Others
 - ...
