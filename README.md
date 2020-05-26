@@ -54,7 +54,8 @@
 ### 파뿌리(파이썬 뿌시는 이십대들) 프로젝트 [[...]](https://github.com/koptimizer/Python_Breakers)
 - 본교 경영학과 학생들을 위한 python+pandas+sklearn+git/github 강좌
 - 해당 스터디강좌의 팀장이었고, 자료제작 및 강의 파트를 담당
-- 해당 자료와 소스코드는 깃헙에서 누구나 열람가능!
+- 해당 자료와 소스코드는 깃헙에서 누구나 열람가능! 
+- https://koptimizer.github.io/Python_Breakers/
 
 <br>
 
