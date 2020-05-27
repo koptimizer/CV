@@ -37,7 +37,7 @@
 ### 한국산업기술대학교 챗봇 산돌이 개발 및 서비스 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
 - kakao open builder를 이용한 정보 제공 챗봇의 기획/디자인/서비스를 포함한 단독 개발
 - NLP 적용 검토중
-- 본교 학보 주간지xx호에 게재
+- 본교 학보 490호 6면에 게재
 
 ### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
 - Ruby와 Jekyll, jekyll-theme을 이용한 랩실 홈페이지 단독 개발
