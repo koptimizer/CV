@@ -39,17 +39,17 @@
 - NLP 적용 검토중
 - 본교 학보 490호 6면에 게재
 
-### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
-- Ruby와 Jekyll, jekyll-theme을 이용한 랩실 홈페이지 단독 개발
-
 ### 진공챔버 예지보전 시스템 VACMA [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
 - 반도체 및 디스플레이의 dry-etch과정에 쓰이는 진공챔버의 예지보전에 대한 솔루션 고안
 - 사업화(BM수립, 시장분석, 향후로드맵) 및 로켓피칭부문으로 대회 참가
 - 2019 스마트팩토리 아이디어 경진대회에서 대상 수상
 
-### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/koptimizer/my_PaperLog)
-- 한달에 2회 AI에 관련된 주요 논문리뷰 프로젝트
-- since 2020.02
+### 주가예측 및 단타용 종목 추천 시스템 <Stock-Hack&Slash>[[...]](https://github.com/koptimizer/StockHackAndSlash)
+- RNN기반 익일 주가 예측으로 떡상종목을 예측해서 서비스하는 프로그램
+- Naver finanace 데이터를 좀 가공해서 LSTM을 사용하였음.
+
+### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
+- Ruby와 Jekyll, jekyll-theme을 이용한 랩실 홈페이지 단독 개발
 
 ### 파뿌리(파이썬 뿌시는 이십대들) 프로젝트 [[...]](https://github.com/koptimizer/Python_Breakers)
 - 본교 경영학과 학생들을 위한 python+pandas+sklearn+git/github 강좌
@@ -57,12 +57,16 @@
 - 해당 자료와 소스코드는 깃헙에서 누구나 열람가능! 
 - https://koptimizer.github.io/Python_Breakers/
 
+### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/koptimizer/my_PaperLog)
+- 한달에 2회 AI에 관련된 주요 논문리뷰 프로젝트
+- since 2020.02
+
 <br>
 
 # 🎯 TECHNICAL SKILLS
 ### Programming Language & Framework
 - `Python` `Java` `C/C++` `SQL` `JS` `HTML/CSS`...
-- `React` `Django` `Flask`
+- `Django` `Flask`
 
 ### Others
 - ...
