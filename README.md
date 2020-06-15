@@ -39,12 +39,12 @@
 - NLP 적용 검토중
 - 본교 학보 490호 6면에 게재
 
-### 진공챔버 예지보전 시스템 VACMA [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
+### 진공챔버 예지보전 시스템 「VACMA」 [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
 - 반도체 및 디스플레이의 dry-etch과정에 쓰이는 진공챔버의 예지보전에 대한 솔루션 고안
 - 사업화(BM수립, 시장분석, 향후로드맵) 및 로켓피칭부문으로 대회 참가
 - 2019 스마트팩토리 아이디어 경진대회에서 대상 수상
 
-### 주가예측 및 단타용 종목 추천 시스템 <Stock-Hack&Slash>[[...]](https://github.com/koptimizer/StockHackAndSlash)
+### 주가예측 및 단타용 종목 추천 시스템 「Stock-Hack&Slash」 [[...]](https://github.com/koptimizer/StockHackAndSlash)
 - RNN기반 익일 주가 예측으로 떡상종목을 예측해서 서비스하는 프로그램
 - Naver finanace 데이터를 좀 가공해서 LSTM을 사용하였음.
 
