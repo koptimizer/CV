@@ -51,14 +51,14 @@
 - Ruby와 Jekyll, jekyll-theme을 이용한 랩실 홈페이지 단독 개발
 
 ### 파뿌리(파이썬 뿌시는 이십대들) 프로젝트 [[...]](https://github.com/koptimizer/Python_Breakers)
-- 본교 경영학과 학생들을 위한 python+pandas+sklearn+git/github 강좌
-- 해당 스터디강좌의 팀장이었고, 자료제작 및 강의 파트를 담당
-- 해당 자료와 소스코드는 깃헙에서 누구나 열람가능! 
-- https://koptimizer.github.io/Python_Breakers/
+- 비전공자들을 위한 파이썬 프로그래밍 재능기부 프로젝트
+- 파이썬의 기초부터 자료구조, 데이터 분석, 웹크롤링, 챗봇제작, Git/Github 등을 다룸.
+- 2019년 12월 1기를 시작으로 정식으로 본교 비교과과목으로 지원 받음. 현재 2기(2020.09 ~ 12) 진행중! 
+- 해당 자료와 소스코드는 깃헙에서 누구나 열람가능
 
 ### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/koptimizer/my_PaperLog)
 - 한달에 2회 AI에 관련된 주요 논문리뷰 프로젝트
-- since 2020.02
+- since 2020.02 ~
 
 ### 스마트 임산부석 시스템 「Baby First」개발 [[...]](https://github.com/koptimizer/BabyFirst)
 - 아두이노와 안드로이드를 이용한 스마트한 임산부석 시스템
@@ -69,7 +69,6 @@
 # 🎯 TECHNICAL SKILLS
 ### Programming Language & Framework
 - `Python` `Java` `C/C++` `SQL` `JS` `HTML/CSS`...
-- `Django` `Flask`
 
 ### Others
 - ...
@@ -78,7 +77,7 @@
 
 # 🏆 AWARDS
 - 2019 스마트팩토리 아이디어 경진대회 : 대상 (2019.11.15)
-- 2020 비대면수업 수기공모전 : 최우수상 (2020.05.29)
+- 2020 비대면수업 수기공모전 : 최우수상(경영과학) (2020.05.29)
 
 <br>
 
