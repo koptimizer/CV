@@ -7,7 +7,7 @@
 * 고광종(Gwang Jong Ko)
 * Email : ilovacoding@kakao.com / ko970710@gmail.com
 * Github : [github.com/koptimizer](https://github.com/koptimizer)
-* 😍 `Optimization` `Data Science` `Automation` `Web-Dev` `music` 😍
+* 😍 `Optimization` `Data Science` `Automation` `Web-Dev` `Music` 😍
 ```
 과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.
 공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.
@@ -16,26 +16,24 @@
 # 🎓 EDUCATION
 - Korea Polytechnic University (IT-Management & Computer-Science) (2016.03 ~)
 - Sang jeong High-School (2013.03 ~ 2016.02)
-
 <br>
 
 # 💼 ORGANIZATION
-- 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~)
+- 한국산업기술대학교 산업데이터분석 연구실(IDA lab) Research Assistance (2020.03.27 ~)
 - 어쿠스틱 버스킹 동아리 <소리새> 부회장 (2020.03.02 ~ )
 - 육군 3사단 22연대 화력지원중대 만기전역 (2017.07.11 ~ 2019.04.11)
 - 어쿠스틱 버스킹 동아리 <소리새> 공연부원 (2017.03.02 ~ 2017.06.28)
-
 <br>
 
 # 📖 PERSONAL PROJECTS
-### 메타휴리스틱의 구현과 RFS 고안 및 연구 [[...]](https://github.com/koptimizer/my_Optimization-studio)
-- 메타휴리스틱 논문을 공부하고 이를 python으로 구현 
-- 각종 최적화 알고리즘과 효율적인 자료구조를 결합한 hybrid 알고리즘 개발
+### 최적화(OR) 연구 프로젝트 [[...]](https://github.com/koptimizer/my_Optimization-studio)
+- 메타휴리스틱에 대해 공부하고 이를 Python으로 직접구현(GA, CS)
+- 강화학습에 대해 공부하고 이를 Python으로 직접구현(Q-learning)
 - 하나의 점을 기준으로 해공간을 재귀적으로 탐색해 나가는 새 매타휴리스틱 알고리즘 RFS 고안 및 연구
+- ing...
 
 ### 한국산업기술대학교 챗봇 「산돌이」 개발 및 서비스 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
 - kakao open builder를 이용한 정보 제공 챗봇의 기획/디자인/서비스를 포함한 단독 개발
-- NLP 적용 검토중
 - 본교 학보 490호 6면에 게재
 
 ### 진공챔버 예지보전 시스템 「VACMA」 고안 [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
@@ -45,16 +43,16 @@
 
 ### 주가예측 및 단타용 종목 추천 시스템 「Stock-Hack&Slash」 개발 [[...]](https://github.com/koptimizer/StockHackAndSlash)
 - RNN기반 익일 주가 예측으로 떡상종목을 예측해서 서비스하는 프로그램
-- Naver finanace 데이터를 좀 가공해서 LSTM을 사용하였음.
-
-### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
-- Ruby와 Jekyll, jekyll-theme을 이용한 랩실 홈페이지 단독 개발
+- Naver finanace 데이터를 가공해서 사용했고, LSTM을 사용.
 
 ### 파뿌리(파이썬 뿌시는 이십대들) 프로젝트 [[...]](https://github.com/koptimizer/Python_Breakers)
 - 비전공자들을 위한 파이썬 프로그래밍 재능기부 프로젝트
 - 파이썬의 기초부터 자료구조, 데이터 분석, 웹크롤링, 챗봇제작, Git/Github 등을 다룸.
 - 2019년 12월 1기를 시작으로 정식으로 본교 비교과과목으로 지원 받음. 현재 2기(2020.09 ~ 12) 진행중! 
 - 해당 자료와 소스코드는 깃헙에서 누구나 열람가능
+
+### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
+- Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발
 
 ### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/koptimizer/my_PaperLog)
 - 한달에 2회 AI에 관련된 주요 논문리뷰 프로젝트
@@ -63,7 +61,6 @@
 ### 스마트 임산부석 시스템 「Baby First」개발 [[...]](https://github.com/koptimizer/BabyFirst)
 - 아두이노와 안드로이드를 이용한 스마트한 임산부석 시스템
 - 해당 프로젝트의 안드로이드 클라이언트부 개발 수행
-
 <br>
 
 # 🎯 TECHNICAL SKILLS
@@ -71,7 +68,7 @@
 - `Python` `Java` `C/C++` `SQL` `JS` `HTML/CSS`...
 
 ### Others
-- ...
+- ...TODO
 
 <br>
 
@@ -86,5 +83,5 @@
 - Korean : ★★★★★
 - English : ★★☆☆☆ / TOEIC : 515(2019.11.24)
 
-### More views
+### More
 - instagram : [j_g_ok](https://www.instagram.com/j_g_ok/)
