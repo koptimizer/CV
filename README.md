@@ -51,12 +51,12 @@
 - 2019년 12월 1기를 시작으로 정식으로 본교 비교과과목으로 지원 받음. 현재 2기(2020.09 ~ 12) 진행중! 
 - 해당 자료와 소스코드는 깃헙에서 누구나 열람가능
 
-### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
-- Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발
-
 ### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/koptimizer/my_PaperLog)
 - 한달에 2회 AI에 관련된 주요 논문리뷰 프로젝트
 - since 2020.02 ~
+
+### 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
+- Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발
 
 ### 스마트 임산부석 시스템 「Baby First」개발 [[...]](https://github.com/koptimizer/BabyFirst)
 - 아두이노와 안드로이드를 이용한 스마트한 임산부석 시스템
