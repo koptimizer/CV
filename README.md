@@ -1,7 +1,7 @@
 # 📝 PROFILE
 <img alt="github profile image" src="https://avatars1.githubusercontent.com/u/29548128?s=400&u=2e375da7abe40b9e73ffd45cf6d8951dc173f8a5&v=4" width="200">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoptimizer)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoptimizer%2FCV)](https://hits.seeyoufarm.com)
 ![GitHub last commit](https://img.shields.io/github/last-commit/koptimizer/My_resume.svg)
 
 * 고광종(Gwang Jong Ko)
