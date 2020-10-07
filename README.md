@@ -71,7 +71,7 @@
 
 ### 한국산업기술대학교 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
 - Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발
-- [idalab.ac.kr](idalab.ac.kr)
+- [idalab.ac.kr](https://idalab.ac.kr)
 
 ### 스마트 임산부석 시스템 「Baby First」개발 [[...]](https://github.com/koptimizer/BabyFirst)
 - 아두이노와 안드로이드를 이용한 스마트한 임산부석 시스템
