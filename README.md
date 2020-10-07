@@ -41,39 +41,46 @@
 
 # 📖 PERSONAL PROJECTS
 ### 최적화(OR) 연구 프로젝트 [[...]](https://github.com/koptimizer/my_Optimization-studio)
-- 메타휴리스틱에 대해 공부하고 이를 Python으로 직접구현(GA, CS)
-- 강화학습에 대해 공부하고 이를 Python으로 직접구현(Q-learning)
+- 2020.02 ~ ing
+- 메타휴리스틱과 강화학습에 대해 공부하고 이를 Python으로 구현
+- 최적화 평가를 위한 각종 함수 구현
+- 각종 도메인에 대한 적용 (Scheduling)
 - 하나의 점을 기준으로 해공간을 재귀적으로 탐색해 나가는 새 매타휴리스틱 알고리즘 RFS 고안 및 연구
-- ing...
 
 ### 한국산업기술대학교 챗봇 「산돌이」 개발 및 서비스 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
+- 2020.02 ~ ing
 - kakao open builder를 이용한 정보 제공 챗봇의 기획/디자인/서비스를 포함한 단독 개발
 - 본교 학보 490호 6면에 게재
 
 ### 진공챔버 예지보전 시스템 「VACMA」 고안 [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
-- 반도체 및 디스플레이의 dry-etch과정에 쓰이는 진공챔버의 예지보전에 대한 솔루션 고안
+- 2019.10 ~ 2019.11
+- 반도체 및 디스플레이의 dry-etching과정에 쓰이는 진공챔버의 예지보전에 대한 솔루션 고안
 - 사업화(BM수립, 시장분석, 향후로드맵) 및 로켓피칭부문으로 대회 참가
 - 2019 스마트팩토리 아이디어 경진대회에서 대상 수상
 
 ### 주가예측 및 단타용 종목 추천 시스템 「Stock-Hack&Slash」 개발 [[...]](https://github.com/koptimizer/StockHackAndSlash)
-- RNN기반 익일 주가 예측으로 떡상종목을 예측해서 서비스하는 프로그램
+- 2020.05 ~ 2020.06
+- RNN기반의 익일 주가 예측으로 단타목적의 떡상종목을 예측해서 서비스하는 프로그램
 - Naver finanace 데이터를 가공해서 사용했고, LSTM을 사용.
 
 ### 파뿌리(파이썬 뿌시는 이십대들) 프로젝트 [[...]](https://github.com/koptimizer/Python_Breakers)
+- 2019.12 ~ ing
 - 비전공자들을 위한 파이썬 프로그래밍 재능기부 프로젝트
 - 파이썬의 기초부터 자료구조, 데이터 분석, 웹크롤링, 챗봇제작, Git/Github 등을 다룸.
 - 2019년 12월 1기를 시작으로 정식으로 본교 비교과과목으로 지원 받음. 현재 2기(2020.09 ~ 12) 진행중! 
 - 해당 자료와 소스코드는 깃헙에서 누구나 열람가능
 
 ### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/koptimizer/my_PaperLog)
-- 한달에 2회 AI에 관련된 주요 논문리뷰 프로젝트
-- since 2020.02 ~
+- 2020.02 ~ ing
+- 한달에 2회 AI에 관련된 주요 논문 및 관심논문 리뷰 프로젝트
 
 ### 한국산업기술대학교 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
-- Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발
+- 2020.05 ~ ing
+- Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발 및 관리
 - [idalab.ac.kr](https://idalab.ac.kr)
 
 ### 스마트 임산부석 시스템 「Baby First」개발 [[...]](https://github.com/koptimizer/BabyFirst)
+- 2020.05 ~ 2020.06
 - 아두이노와 안드로이드를 이용한 스마트한 임산부석 시스템
 - 해당 프로젝트의 안드로이드 클라이언트부 개발 수행
 <br>
