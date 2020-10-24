@@ -7,7 +7,7 @@
 * 고광종(Gwang Jong Ko)
 * Email : ilovacoding@kakao.com / ko970710@gmail.com
 * Github : [github.com/koptimizer](https://github.com/koptimizer)
-* 😍 `Optimization` `Data Science` `Automation` `Web-Dev` `Music` 😍
+* 😍 `Optimization` `Data Science` `ML` `Web-Dev` `Cloud` `Music` 😍
 ```
 과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.
 공학과 비즈니스의 시야에서 나의 기술과 안목을 키우는 것을 지향합니다.
@@ -15,7 +15,7 @@
 
 # 🎓 EDUCATION
 - Korea Polytechnic University (IT-Management & Computer-Science) (2016.03 ~)
-- Sang jeong High-School (2013.03 ~ 2016.02)
+- Sang-jeong High School (2013.03 ~ 2016.02)
 <br>
 
 # 💼 ORGANIZATION
@@ -88,6 +88,7 @@
 # 🎯 TECHNICAL SKILLS
 ### Programming Language & Framework
 - `Python` `Java` `C/C++` `SQL` `JS` `HTML/CSS`...
+- `Tensorflow-Keras` `Pytorch` `Pycaret`...
 
 ### Others
 - ...TODO
