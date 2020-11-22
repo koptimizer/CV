@@ -47,6 +47,7 @@
 - 최적화 평가를 위한 각종 함수 구현
 - 각종 도메인에 대한 적용 (Scheduling)
 - 하나의 점을 기준으로 해공간을 재귀적으로 탐색해 나가는 새 매타휴리스틱 알고리즘 RFS 고안 및 연구
+- ing
 
 ### 한국산업기술대학교 챗봇 「산돌이」 개발 및 서비스 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
 - 2020.02 ~ ing
