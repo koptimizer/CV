@@ -108,7 +108,7 @@
 ### Language & Certificates
 - Korean : ★★★★★
 - English : ★★☆☆☆
-  - TOEIC : 515/990 (2019.11.24)
+  - TOEIC : XXX/990
   - TEPS : XXX/600
   
 ### More
