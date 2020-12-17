@@ -21,7 +21,7 @@
 
 # ✍ RESERCH AREA
 - Optimization(Operations Research) Using Metaheuristics and Reinforcement Learning
-- Time-series Data Analsis
+- Time-series Data Analysis
 - Machine Learning
 - Industrial Application of Artificial Inteligence
 </br>
