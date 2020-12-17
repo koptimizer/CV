@@ -26,7 +26,7 @@
 - Industrial Application of Artificial Inteligence
 </br>
 
-# 🧪 RESEARCH PROJECT
+# 🧪 RESEARCH PROJECTS
 ### Real-time Scheduling Method for Manufacturing Lines Using Meta-heuristics and Deep Reinforcement Learning - National Research Foundation
 - Research Assistance, Korea Polytechnic University Industiral Analysis Lab (2020.03.01 ~ ing)
 
