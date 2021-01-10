@@ -47,7 +47,6 @@
 - 최적화 평가를 위한 각종 함수 구현
 - 각종 도메인에 대한 적용 (Scheduling)
 - 하나의 점을 기준으로 해공간을 재귀적으로 탐색해 나가는 새 매타휴리스틱 알고리즘 RFS 고안 및 연구
-- ing
 
 ### 한국산업기술대학교 챗봇 「산돌이」 개발 및 서비스 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
 - 2020.02 ~ ing
@@ -89,7 +88,7 @@
 
 # 🎯 TECHNICAL SKILLS
 ### Programming Language & Framework
-- `Python` `Java` `C/C++` `SQL` `JS` `HTML/CSS`...
+- `Python` `Java` `C/C++` `SQL` `HTML/CSS`...
 - `Tensorflow-Keras` `Pytorch` `Pycaret`...
 
 ### Others
@@ -97,17 +96,17 @@
 <br>
 
 # 🏆 AWARDS
-- 2019 한국산업기술대학교 제 2회 스마트팩토리 아이디어 경진대회 : 대상 (2019.11.15)
+- <b>2019 한국산업기술대학교 제 2회 스마트팩토리 아이디어 경진대회 : 대상 (2019.11.15)</b>
 - 비대면수업 수기공모전 : 최우수상(경영과학) (2020.05.29)
 - 비교과 프로그램 활동 수기공모전 : 최우수상(경영학부 멘토링)(2020.11.11)
 - 2020 한국산업기술대학교 제 3회 스마트팩토리 아이디어 경진대회 : 최우수상 (2020.11.26)
-- 2020 빅콘테스트 챔피언리그 : 우수상(빅데이터포럼의장상) (2020.12.15)
+- <b><2020 빅콘테스트 챔피언리그 : 우수상(빅데이터포럼의장상) (2020.12.15)</b>
 <br>
 
 # 💬 OTHERS
 ### Language & Certificates
 - Korean : ★★★★★
-- English : ★★☆☆☆
+- English : ★★★☆☆
   - TOEIC : XXX/990
   - TEPS : XXX/600
   
