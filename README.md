@@ -111,5 +111,5 @@
   - TOEIC : XXX/990
   - TEPS : XXX/600
   
-### More
-- instagram : [j_g_ok](https://www.instagram.com/j_g_ok/)
+### SnS
+- Instagram : [j_g_ok](https://www.instagram.com/j_g_ok/)
