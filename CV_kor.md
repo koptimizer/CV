@@ -16,10 +16,17 @@ Email : rhkswhdwkd@naver.com</b> </br>
 - 육군 3사단 22연대 화력지원중대 만기전역 (2017.07.11 ~ 2019.04.11)
 <br>
 
+## RESEARCH INTERESTS
+- Optimization(OR)
+- Heuristic Search
+- Reinforcement Learning
+- Nature-Inspired Computing 
+- Industrial Application of AI
+
 ## RESEARCH EXPERIENCE
 ### 메타휴리스틱과 심층강화학습을 이용한 실시간 제조라인 일정계획 수립 기법 (2020.03.01 ~)
 - 한국산업기술대학교 산업데이터분석 연구실 학생연구원
-- 제조라인 스케줄러 개발, 메타휴리스틱 탐색을 이용한 뉴럴네트워크 가중치 탐색 기법 개발 및 논문화
+- 제조라인 스케줄러 개발, 메타휴리스틱을 이용한 뉴럴네트워크 가중치 탐색 기법 개발 및 논문화
 ### 에너지 프로슈머 빅데이터 분석 및 AI 알고리즘을 활용한 P2P 에너지 블록체인 기술개발 (2020.04.01 ~)
 - 한국산업기술대학교 산업데이터분석 연구실 학생연구원
 - 에너지 P2P 거래 네트워크 최적화 프레임워크 고안 및 특허화
