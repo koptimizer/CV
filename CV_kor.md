@@ -1,6 +1,6 @@
 <p align = 'center'>
-<b>고광종(Gwang Jong Ko) </br>
-Email : rhkswhdwkd@naver.com</b> </br>
+<b>고광종(Gwang Jong Ko)</b> </br>
+Email : rhkswhdwkd@naver.com </br>
 </p>
 <br>
 
@@ -22,6 +22,7 @@ Email : rhkswhdwkd@naver.com</b> </br>
 - Reinforcement Learning
 - Nature-Inspired Computing 
 - Industrial Application of AI
+<br>
 
 ## RESEARCH EXPERIENCE
 ### 메타휴리스틱과 심층강화학습을 이용한 실시간 제조라인 일정계획 수립 기법 (2020.03.01 ~)
@@ -40,6 +41,11 @@ Email : rhkswhdwkd@naver.com</b> </br>
 - 2020.02 ~ ing
 - kakao open builder 및 AWS Lambda를 이용한 교내 정보 제공 챗봇의 기획/디자인/서비스를 포함한 단독 개발
 - 본교 학보 490호 6면에 게재
+
+### 빅콘테스트 경진대회 - 홈쇼핑 매출액 예측모델 개발 및 방송편성표 최적화 
+- 2020.07.20 ~ 2020.09.28
+- EDA, Heuristic Search(Cuckoo Search)를 이용한 방송편성표 최적화 개발, 최종PT발표 담당
+- 해당 솔루션으로 우수상(빅데이터포럼의장상) 수상
 
 ### 진공챔버 예지보전 시스템「VACMA」고안 [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
 - 2019.10 ~ 2019.11
