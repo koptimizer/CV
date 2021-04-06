@@ -2,16 +2,19 @@
 <b>고광종(Gwang Jong Ko)</b> </br>
 Email : rhkswhdwkd@naver.com </br>
 </p>
+</br>
 
 ## EDUCATION
 - 한국산업기술대학교 (2016.03 ~)
   - IT경영학 전공, 컴퓨터공학 복수전공
   - GPA 4.01/4.5
 - 인천상정고등학교 (2013.03 ~ 2016.02)
+</br>
 
 ## ORGANIZATION
 - 한국산업기술대학교 산업데이터분석 연구실(IDAL) 학생연구원 (2020.03.27 ~)
 - 육군 3사단 22연대 화력지원중대 만기전역 (2017.07.11 ~ 2019.04.11)
+</br>
 
 ## RESEARCH INTERESTS
 - Optimization(OR)
@@ -19,6 +22,7 @@ Email : rhkswhdwkd@naver.com </br>
 - Reinforcement Learning
 - Nature-Inspired Computing 
 - Industrial Application of AI
+</br>
 
 ## RESEARCH EXPERIENCE
 ### 메타휴리스틱과 심층강화학습을 이용한 실시간 제조라인 일정계획 수립 기법 (2020.03.01 ~)
@@ -30,6 +34,7 @@ Email : rhkswhdwkd@naver.com </br>
 ### 소셜 감성 데이터를 이용한 딥러닝 기반 가상화폐 가격 예측 모델 개발 (2020.08 ~ 2021.11)
 - 한국산업기술대학교 캡스톤디자인
 - 캡스톤 팀장, BERT 기반의 긍부정분석 모델 개발, 시계열 예측모델 개발 
+</br>
 
 ## PERSONAL PROJECTS
 ### 한국산업기술대학교 AI 챗봇「산돌이」개발 및 서비스 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
@@ -68,6 +73,7 @@ Email : rhkswhdwkd@naver.com </br>
 - 2020.05 ~ 2020.06
 - 아두이노와 안드로이드를 이용한 스마트한 임산부석 시스템 개발
 - 해당 프로젝트의 안드로이드 클라이언트부 개발 수행
+</br>
 
 ## AWARDS
 - 2019 한국산업기술대학교 제 2회 스마트팩토리 아이디어 경진대회 : 대상 (2019.11.15)
@@ -75,6 +81,7 @@ Email : rhkswhdwkd@naver.com </br>
 - 2020 한국산업기술대학교 제 3회 스마트팩토리 아이디어 경진대회 : 최우수상 (2020.11.26)
 - 2020 빅콘테스트 챔피언리그 : 우수상(빅데이터포럼의장상) (2020.12.15)
 - KPU 재능개발 기부 프로그램 : 대상(파이썬을 이용한 데이터분석 및 챗봇 개발) (2021.01.21)
+</br>
 
 ## TECHNICAL SKILLS
 ### Programming Language
