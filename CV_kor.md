@@ -24,7 +24,7 @@ Email : rhkswhdwkd@naver.com </br>
 - Industrial Application of AI
 </br>
 
-## RESEARCH EXPERIENCE
+## RESEARCH EXPERIENCES
 ### 메타휴리스틱과 심층강화학습을 이용한 실시간 제조라인 일정계획 수립 기법 (2020.03.01 ~)
 - 한국산업기술대학교 산업데이터분석 연구실 학생연구원
 - 제조라인 스케줄러 개발, 메타휴리스틱을 이용한 뉴럴네트워크 가중치 탐색 기법 개발 및 논문화
