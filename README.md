@@ -20,14 +20,23 @@
 <br>
 
 # 💼 ORGANIZATION
-- 고려대학교 공급사슬 & 가치망 분석 연구실(SAVANNA) Integrated MS & PhD Student (2022.03.01 ~ ing)
-- 한국공학대학교 산업데이터분석 연구실(IDAL) Research Assistance (2020.03.27 ~ 2022.02.28)
+- 고려대학교 공급사슬 & 가치망 분석 연구실 (SAVANNA) Integrated MS & PhD Student (2022.03.01 ~ ing)
+- 한국공학대학교 산업데이터분석 연구실 (IDAL) Research Assistance (2020.03.27 ~ 2022.02.28)
 - 어쿠스틱 버스킹 동아리 <소리새> 부회장 (2020.03.02 ~ )
 - 육군 3사단 22연대 화력지원중대 만기전역 (2017.07.11 ~ 2019.04.11)
 - 어쿠스틱 버스킹 동아리 <소리새> 공연부원 (2017.03.02 ~ 2017.06.28)
 </br>
 
-# 🧪 RESEARCH
+# 📃 JOURNAL PAPERS
+- GwangJong Ko, Jaeseok Huh, "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *Journal of KIIE*, Under Review.  
+</br>
+
+# 📊 CONFERENCE PAPERS 
+- GwangJong Ko, Dasol Kim, Jaeseok Huh, "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *Spring Joint Conference Paper of KIIE*, 3390-3390, June, 2021.
+- GwangJong Ko, Dasol Kim, Jaeseok Huh, "Deep Learning Based Cryptocurrency Price Prediction Using Social Sentiment Data", *Fall Conference Paper of KIIT*, Accept. 
+</br>
+
+# 🧪 RESEARCH PROJECTS
 ### 메타휴리스틱과 심층강화학습을 이용한 실시간 제조라인 일정계획 수립 기법
 - 2020.03.01 ~ 2022.02.28
 - 한국공학대학교 산업데이터분석 연구실 IDAL
