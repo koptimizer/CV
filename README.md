@@ -28,7 +28,8 @@
 </br>
 
 # 📃 JOURNAL PAPERS
-- GwangJong Ko, Jaeseok Huh, "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *Journal of KIIE*, Under Review.  
+- GwangJong Ko, Jaeseok Huh, "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *To Appear in Journal of KIIE*.
+- GwangJong Ko, Jaeseok Huh, "Metaheuristic Based Weight Optimization of Deep Reinforcement Learning for Continuous Control", *Work in Process*
 </br>
 
 # 📊 CONFERENCE PAPERS 
@@ -58,7 +59,18 @@
  - [관련 레포지토리 바로가기](https://github.com/koptimizer/Capstone)
 </br>
 
-# 📖 PERSONAL PROJECTS
+# 📖 TEACHING EXPERIENCES
+### 한국공학대학교 동계현장프로젝트교과 - Python을 이용한 Web-Crawling
+- 2022.01.10 ~ 2022.01.20
+- Teaching Assistant
+
+### 한국공학대학교 파뿌리(파이썬 뿌시는 이십대들) 재능기부비교과 강좌
+- 1기: 2019.12 ~ 2020.02 // 2기: 2020.09 ~ 2020.12 // 3기: 2021.07 ~ 2021.12
+- [관련 레포 바로가기](https://github.com/koptimizer/Python_Breakers)
+- Mentor & Teacher
+<br>
+
+# 🚀 PERSONAL PROJECTS
 ### 최적화(OR) 연구 프로젝트 [[...]](https://github.com/koptimizer/my_Optimization-studio)
 - 2020.02 ~ ing
 - 메타휴리스틱과 강화학습에 대해 공부하고 이를 Python으로 구현
@@ -81,13 +93,6 @@
 - 2020.05 ~ 2020.06
 - RNN기반의 익일 주가 예측으로 단타목적의 떡상종목을 예측해서 서비스하는 프로그램
 - Naver finanace 데이터를 가공해서 사용했고, LSTM을 사용.
-
-### 파뿌리(파이썬 뿌시는 이십대들) 프로젝트 [[...]](https://github.com/koptimizer/Python_Breakers)
-- 2019.12 ~ ing
-- 비전공자들을 위한 파이썬 프로그래밍 재능기부 프로젝트
-- 파이썬의 기초부터 자료구조, 데이터 분석, 웹크롤링, 챗봇제작, Git/Github 등을 다룸.
-- 2019년 12월 1기를 시작으로 정식으로 한국공학대학교 비교과과목으로 지원 받음. 현재 2기(2020.09 ~ 12) 진행중! 
-- 해당 자료와 소스코드는 깃헙에서 누구나 열람가능
 
 ### 논문 리뷰 프로젝트 - my_PaperLog [[...]](https://github.com/koptimizer/my_PaperLog)
 - 2020.02 ~ ing
