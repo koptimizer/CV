@@ -131,8 +131,7 @@
 ### Language & Certificates
 - Korean : ★★★★★
 - English : ★★★☆☆
-  - TOEIC : XXX/990
-  - TEPS : XXX/600
+  - TOEIC : 710/990
   
 ### More
 - Instagram : [j_g_ok](https://www.instagram.com/j_g_ok/)
