@@ -28,13 +28,14 @@
 </br>
 
 # 📃 JOURNAL PAPERS
-- GwangJong Ko, Jaeseok Huh (2022), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *To Appear in Journal of KIIE*.
 - GwangJong Ko, Jaeseok Huh (2022), "A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement Learning in Continuous Control", *Work in Process*
+- GwangJong Ko, Jaeseok Huh (2022), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *To Appear in Journal of KIIE*.
 </br>
 
 # 📊 CONFERENCE PROCEEDINGS
-- GwangJong Ko, Dasol Kim, Jaeseok Huh (2021), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *Proceedings of KIIE Conference*, 3390-3390, June, 2021.
 - GwangJong Ko, Dasol Kim, Jaeseok Huh (2021), "Deep Learning Based Cryptocurrency Price Prediction Using Social Sentiment Data", *Proceedings of KIIT Conference*, 36-39, November, 2021. 
+- GwangJong Ko, Dasol Kim, Jaeseok Huh (2021), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *Proceedings of KIIE Conference*, 3390-3390, June, 2021.
+
 </br>
 
 # 💡 PATENTS
@@ -113,7 +114,7 @@
 ### Language & Certificates
 - Korean : ★★★★★
 - English : ★★★☆☆
-  - TOEIC : 710/990
+  - TOEIC : 710/990 (2022.01)
   
 ### More
 - Instagram : [j_g_ok](https://www.instagram.com/j_g_ok/)
