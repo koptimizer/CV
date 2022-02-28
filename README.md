@@ -114,7 +114,7 @@
 ### Language & Certificates
 - Korean : ★★★★★
 - English : ★★★☆☆
-  - TOEIC : 710/990 (2022.01)
+  - TOEIC : 710/990 (2021)
   
 ### More
 - Instagram : [j_g_ok](https://www.instagram.com/j_g_ok/)
