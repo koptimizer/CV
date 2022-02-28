@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/koptimizer/My_resume.svg)
 
 * 고광종(Gwang Jong Ko)
-* Email : rhkswhdwkd@naver.com / ilovacoding@kakao.com / ko970710@gmail.com
+* Email : koptimizer@korea.ac.kr
 * Github : [github.com/koptimizer](https://github.com/koptimizer)
 * 😍 `Optimization` `Data-Science` `Dev` `Music` 😍
 
