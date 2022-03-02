@@ -21,14 +21,14 @@
 <br>
 
 # 💼 ORGANIZATION
-- 고려대학교 공급사슬 & 가치망 분석 연구실 (SAVANNA) Integrated M.S. & Ph.D. Student (2022.03.01 ~ ing)
-- 한국공학대학교 산업데이터분석 연구실 (IDAL) Research Assistance (2020.03.27 ~ 2022.02.28)
+- [공급사슬 & 가치망 분석 연구실 (SAVANNA)](http://savanna.korea.ac.kr/wp/) Integrated M.S. & Ph.D. Student (2022.03.01 ~ ing)
+- [산업데이터분석 연구실 (IDAL)](https://idalab.ac.kr/) Research Assistance (2020.03.27 ~ 2022.02.28)
 - 어쿠스틱 버스킹 동아리 <소리새> 부회장 (2020.03.02 ~ 2022.02.28)
 - 육군 3사단 22연대 화력지원중대 (2017.07.11 ~ 2019.04.11)
 </br>
 
 # 📃 JOURNAL PAPERS
-- GwangJong Ko, Jaeseok Huh (2022), "A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement Learning in Continuous Control", *Work in Process*
+- GwangJong Ko, Jaeseok Huh (2022), "A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement Learning in Continuous Control", *Under Review in EAAI*
 - GwangJong Ko, Jaeseok Huh (2022), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *To Appear in Journal of KIIE*.
 </br>
 
