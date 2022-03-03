@@ -35,7 +35,6 @@
 # 📊 CONFERENCE PROCEEDINGS
 - GwangJong Ko, Dasol Kim, Jaeseok Huh (2021), "Deep Learning Based Cryptocurrency Price Prediction Using Social Sentiment Data", *Proceedings of KIIT Conference*, 36-39, November, 2021. 
 - GwangJong Ko, Dasol Kim, Jaeseok Huh (2021), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *Proceedings of KIIE Conference*, 3390-3390, June, 2021.
-
 </br>
 
 # 💡 PATENTS
@@ -58,14 +57,14 @@
 ### 소셜 감성 데이터를 이용한 딥러닝 기반 가상화폐 가격 예측 모델[[...]](https://github.com/koptimizer/Capstone)
 - 2020.08. ~ 2021.08
 - BERT를 통해 가상화폐 관련 텍스트 데이터를 독립변수로 변환, 변환된 변수를 가상화폐 가격 예측에 이용하는 프레임워크 고안
-- 한국공학대학교 캡스톤 디자인 프로젝트(졸업연구), 대한산업공학회 대학생 산업공학 경진대회 장려상 수상
+- 한국공학대학교 캡스톤 디자인 프로젝트(졸업연구), 2021 대한산업공학회 대학생 산업공학 경진대회 장려상 수상, 2021 한국정보기술학회 추계종합학술대회 발표
 
 ### NS SHOP+ 판매실적 예측을 통한 홈쇼핑 방송편성 최적화 방안(모형) 도출 [[...]](https://github.com/koptimizer/description/blob/main/note/competition/2020bigcon.md)
 - 2020.07 ~ 2020.12
-- EDA 보조, [Discrete Cuckoo Search](https://link.springer.com/article/10.1007/s00521-013-1402-2)를 이용한 최적 방송편성표 탐색기 개발, 최종심사 프레젠테이션
+- EDA, LGBM과 [Discrete Cuckoo Search](https://link.springer.com/article/10.1007/s00521-013-1402-2)를 이용한 최적 방송편성표 탐색기 개발
 - 2020 빅콘테스트 (한국지능정보사회진흥원 주최) 우수상 수상
 
-### 한국공학대학교 AI 챗봇 「산돌이」 개발 및 서비스 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
+### 한국공학대학교 AI 챗봇 「산돌이」 [[...]](https://github.com/koptimizer/kakaotalk_chatbot_sandol)
 - 2020.02 ~ 2022.02
 - Kakao open builder, 웹크롤러, AWS lambda를 이용한 정보 제공 챗봇(초기 기획/디자인 포함) 개발, 지속가능한 서비스를 위해 산돌팀 창립
 - [서비스 유지중](https://pf.kakao.com/_pRxlZxb) (구독자 수 3000명 가량), 한국공학대학교 학보 490호 6면, 509호 6면에 게재
@@ -75,13 +74,13 @@
 - 재능기부 프로젝트로 시작, 한국공학대학교 2020-2학기, 2021-2학기 비교과강좌 선정
 - 2020 한국공학대학교 재능개발기부프로그램 대상 수상, 2021 한국공학대학교 재능개발기부프로그램 우수상 수상
 
-### 진공챔버 예지보전 시스템 「VACMA」 고안 [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
+### 진공챔버 예지보전 시스템 「VACMA」 [[...]](https://github.com/koptimizer/VACMA_KIT_prop)
 - 2019.10 ~ 2019.11
 - 반도체 및 디스플레이 dry-etching과정에 쓰이는 진공챔버의 예지보전 솔루션 고안
 - 아이디어 수립, 사업화(BM수립, 시장분석, 향후로드맵) 및 로켓피칭 프레젠테이션
 - 2019 한국공학대학교 스마트팩토리 아이디어 경진대회 대상 수상
 
-### 한국공학대학교 산업데이터분석연구실 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
+### 한국공학대학교 산업데이터분석연구실(IDAL) 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
 - 2020.05 ~ 2022.02
 - Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발 및 관리
 - [idalab.ac.kr](https://idalab.ac.kr)
