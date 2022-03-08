@@ -15,32 +15,32 @@
 ```
 
 # 🎓 EDUCATION
-- 고려대학교 (산업경영공학과 석박사 통합과정; Advisor: Taesu Cheong) (2022.03 ~ ing)
-- 한국공학대학교 (IT경영학과 & 컴퓨터공학과 복수전공; Advisor: Jaeseok Huh) (2016.03 ~ 2022.02)
+- 고려대학교 산업경영공학과 석박사 통합과정; Advisor: Taesu Cheong (2022.03 ~ ing)
+- 한국공학대학교 IT경영학과 & 컴퓨터공학과 복수전공; Advisor: Jaeseok Huh (2016.03 ~ 2022.02)
 - 인천상정고등학교 (2013.03 ~ 2016.02)
-<br>
+<br/>
 
 # 💼 ORGANIZATION
-- [공급사슬 & 가치망 분석 연구실 (SAVANNA)](http://savanna.korea.ac.kr/wp/) Integrated M.S. & Ph.D. Student (2022.03.01 ~ ing)
+- [공급사슬 & 가치망 분석 연구실 (SAVANNA)](http://savanna.korea.ac.kr/wp/) Integrated M.S & Ph.D Student (2022.03.01 ~ ing)
 - [산업데이터분석 연구실 (IDAL)](https://idalab.ac.kr/) Research Assistance (2020.03.27 ~ 2022.02.28)
 - 어쿠스틱 버스킹 동아리 <소리새> 부회장 (2020.03.02 ~ 2022.02.28)
 - 육군 3사단 22연대 화력지원중대 (2017.07.11 ~ 2019.04.11)
-</br>
+<br>
 
 # 📃 JOURNAL PAPERS
 - GwangJong Ko, Jaeseok Huh (2022), "A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement Learning in Continuous Control", *Under Review in EAAI*
 - GwangJong Ko, Jaeseok Huh (2022), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *To Appear in Journal of KIIE*.
-</br>
+<br>
 
 # 📊 CONFERENCE PROCEEDINGS
 - GwangJong Ko, Dasol Kim, Jaeseok Huh (2021), "Deep Learning Based Cryptocurrency Price Prediction Using Social Sentiment Data", *Proceedings of KIIT Conference*, 36-39, November, 2021. 
 - GwangJong Ko, Dasol Kim, Jaeseok Huh (2021), "An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Aritificial Neural Networks", *Proceedings of KIIE Conference*, 3390-3390, June, 2021.
-</br>
+<br>
 
 # 💡 PATENTS
 - 고광종, 허재석, "하이브리드 메타휴리스틱 알고리즘을 이용한 인공 신경망의 가중치를 최적화하는 방법 및 장치", 10-2021-0148902, 2021.11.02 출원.
 - 고광종, 허재석, "하이브리드 메타휴리스틱 알고리즘을 이용한 인공 신경망의 가중치를 최적화하기 위한 군집 메모리 장치 및 이의 동작 방법", 10-2021-0148903, 2021.11.02 출원.
-</br>
+<br>
 
 # 📖 TEACHING EXPERIENCES
 ### 한국공학대학교 현장프로젝트교과(파이썬을 이용한 데이터수집 및 스마트공장 사례 조사)
@@ -51,7 +51,7 @@
 - 1기: 2019.12 ~ 2020.02; 2기: 2020.09 ~ 2020.12; 3기: 2021.07 ~ 2021.12
 - [관련 레포 바로가기](https://github.com/koptimizer/Python_Breakers)
 - Mentor & Teacher
-</br>
+<br>
 
 # 🚀 PERSONAL PROJECTS
 ### 소셜 감성 데이터를 이용한 딥러닝 기반 가상화폐 가격 예측 모델[[...]](https://github.com/koptimizer/Capstone)
@@ -80,16 +80,22 @@
 - 아이디어 수립, 사업화(BM수립, 시장분석, 향후로드맵) 및 로켓피칭 프레젠테이션
 - 2019 한국공학대학교 스마트팩토리 아이디어 경진대회 대상 수상
 
+### 동남㈜ 공정계획 최적화 기법 제안 [[...]](https://github.com/koptimizer/DCS_for_FJSP/blob/main/DCS_for_FJSP.pdf)
+- 2019.10 ~ 2022.02
+- [Discrete Cuckoo Search](https://link.springer.com/article/10.1007/s00521-013-1402-2)를 기반으로 한 Flexible Job-Shop Scheduling Problem 솔루션 개발 
+- 경기도 시흥시에 위치한 정밀가공부품 회사 동남㈜의 공정계획을 상기 솔루션으로 접근하는 최적화 기법 제안 
+- 2022 한국공학대학교 스마트팩토리 온라인 현장답사 감상 후기 및 아이디어 공모전 대상 수상
+
 ### 한국공학대학교 산업데이터분석연구실(IDAL) 홈페이지 개발 [[...]](https://github.com/koptimizer/IDALab.io)
 - 2020.05 ~ 2022.02
 - Ruby와 Jekyll을 이용한 랩실 홈페이지 단독 개발 및 관리
 - [idalab.ac.kr](https://idalab.ac.kr)
 
 ### 스마트 임산부석 시스템 「Baby First」개발 [[...]](https://github.com/koptimizer/BabyFirst)
-- 2020.05 ~ 2020.06
+- 2021.05 ~ 2020.06
 - 아두이노와 안드로이드를 이용한 스마트한 임산부석 시스템
 - 해당 프로젝트의 안드로이드 클라이언트부 개발 수행
-</br>
+<br>
 
 # 🎯 TECHNICAL SKILLS
 ### Programming Language & Framework
@@ -98,7 +104,7 @@
 
 ### Others
 - `AWS-EC2, Lambda, S3, RDS, ...` ...
-</br>
+<br>
 
 # 🏆 AWARDS
 - 한국공학대학교 스마트팩토리 온라인 현장답사 감상후기 및 아이디어 제안 공모전 : 대상 (2022.02.09)
@@ -110,7 +116,6 @@
 - 2020 KPU 스마트팩토리 아이디어 경진대회 : 최우수상 (2020.11.26)
 - DACON 제주 신용카드 빅데이터 경진대회 : 상위 5% (2020.08.28)
 - <b>2019 KPU 스마트팩토리 아이디어 경진대회 : 대상 (2019.11.15)</b>
-
 <br>
 
 # 💬 OTHERS
