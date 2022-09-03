@@ -7,7 +7,7 @@
 * 고광종(Gwang Jong Ko)
 * Email : koptimizer@korea.ac.kr
 * Github : [github.com/koptimizer](https://github.com/koptimizer)
-* 😍 `Optimization` `Data-Science` `Dev` `Music` 😍
+* 😍 `Optimization(OR)` `Artificial Intelligence` `Computer Science` `Music` 😍
 
 ```
 과정과 결과를 객관적으로 바라보고 자신의 기술에 큰 애정을 가지며 겸손히 갈고 닦아야한다고 생각합니다.
@@ -17,7 +17,6 @@
 # 🎓 EDUCATION
 - 고려대학교 산업경영공학과 석박사 통합과정; Advisor: Taesu Cheong (2022.03 ~ ing)
 - 한국공학대학교 IT경영학과 & 컴퓨터공학과 복수전공; Advisor: Jaeseok Huh (2016.03 ~ 2022.02)
-- 인천상정고등학교 (2013.03 ~ 2016.02)
 <br/>
 
 # 💼 ORGANIZATION
@@ -28,13 +27,15 @@
 <br>
 
 # 📃 JOURNAL PAPERS
-- Ko, Gwangjong., Park, In-beom., Huh, Jaeseok. (2022), A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement Learning in Continuous Control, *Work in Process*
-- Ko, Gwangjong., Huh, Jaeseok. (2022), An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Artificial Neural Networks, *Journal of the Korean Institute of Industrial Engineers*, 48(2), 227-234. (KCI)
+- <b>Ko, Gwangjong</b>., Huh, Jaeseok*. A Metaheuristic-Based Weight Optimization for Robust Deep Reinforcement Learning in Continuous Control, *Work in Process*
+- <b>Ko, Gwangjong</b>., Huh, Jaeseok*. (2022), An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Artificial Neural Networks, *Journal of the Korean Institute of Industrial Engineers*, 48(2), 227-234. (KCI)
 <br>
 
 # 📊 CONFERENCE PROCEEDINGS
-- Ko, Gwangjong., Kim, Dasol., Huh, Jaeseok. (2021), Deep Learning-Based Cryprocurrency Price Prediction Using Social Sentiment Data, Proceedings of KIIT Conference, 36-39.
-- Ko, Gwangjong., Kim, Dasol., Huh, Jaeseok. (2021), An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Artificial Neural Networks, Proceedings of Korean Institute of Industrial Engineers Conference, 3390-3390.
+- <b>Kang, Sungho</b>., Choi, In-chan*., Cheong, Taesu*., Ko, Gwangjong., Kim, Haneul. (2022), Reinforcement Learning with Quantum Circuit, *Informs Conference*, *Work in Precess*
+- <b>Ko, Gwangjong</b>., Huh, Jaeseok*. (2022), Particle Swarm Opitmization-Based Deep Reinforcement Learning for Robust Optimization of Policy Network, *Proceedings of Korean Intitute of Industrial Engineers Conference*, 1639-1646
+- <b>Ko, Gwangjong</b>., Kim, Dasol., Huh, Jaeseok*. (2021), Deep Learning-Based Cryprocurrency Price Prediction Using Social Sentiment Data, *Proceedings of KIIT Conference*, 36-39.
+- <b>Ko, Gwangjong</b>., Kim, Dasol., Huh, Jaeseok*. (2021), An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Artificial Neural Networks, *Proceedings of Korean Institute of Industrial Engineers Conference*, 3390-3390.
 <br>
 
 # 💡 PATENTS
@@ -43,17 +44,13 @@
 <br>
 
 # 📖 TEACHING EXPERIENCES
-### 한국공학대학교 현장프로젝트교과(파이썬을 이용한 데이터수집 및 스마트공장 사례 조사)
-- 2022.01.10 ~ 2022.01.20
-- Teaching Assistant
-
 ### 한국공학대학교 파뿌리(파이썬 뿌시는 이십대들) 재능기부비교과 강좌 1 ~ 3기
 - 1기: 2019.12 ~ 2020.02; 2기: 2020.09 ~ 2020.12; 3기: 2021.07 ~ 2021.12
 - [관련 레포 바로가기](https://github.com/koptimizer/Python_Breakers)
-- Mentor & Teacher
+- Mentor
 <br>
 
-# 🚀 PERSONAL PROJECTS
+# 🚀 PROJECTS
 ### 소셜 감성 데이터를 이용한 딥러닝 기반 가상화폐 가격 예측 모델[[...]](https://github.com/koptimizer/Capstone)
 - 2020.08. ~ 2021.08
 - BERT를 통해 가상화폐 관련 텍스트 데이터를 독립변수로 변환, 변환된 변수를 가상화폐 가격 예측에 이용하는 프레임워크 고안
