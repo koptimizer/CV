@@ -32,7 +32,8 @@
 <br>
 
 # 📊 CONFERENCE PROCEEDINGS
-- <b>Kang, Sungho</b>., Choi, In-chan*., Cheong, Taesu*., Ko, Gwangjong., Kim, Haneul. (2022), Reinforcement Learning with Quantum Circuit, *Informs Conference*, *Work in Precess*
+- <b>Ko, Gwangjong</b>., Kang, Woong., Cheong, Taesu*. (2022), Comparison of Metaheuristic Approaches in Flexible Job-Shop Scheduling Problems, *Proceedings on the Korean Operations and Management Science Society Conference*, *In press*
+- Kang, Sungho., Choi, In-chan*., Cheong, Taesu*., <b>Ko, Gwangjong</b>., Kim, Haneul. (2022), Reinforcement Learning with Quantum Circuit, *Informs Annual Meeting*, *In press*
 - <b>Ko, Gwangjong</b>., Huh, Jaeseok*. (2022), Particle Swarm Opitmization-Based Deep Reinforcement Learning for Robust Optimization of Policy Network, *Proceedings of Korean Intitute of Industrial Engineers Conference*, 1639-1646
 - <b>Ko, Gwangjong</b>., Kim, Dasol., Huh, Jaeseok*. (2021), Deep Learning-Based Cryprocurrency Price Prediction Using Social Sentiment Data, *Proceedings of KIIT Conference*, 36-39.
 - <b>Ko, Gwangjong</b>., Kim, Dasol., Huh, Jaeseok*. (2021), An Effective Hybrid Metaheuristic Algorithm for Weight Optimization of Artificial Neural Networks, *Proceedings of Korean Institute of Industrial Engineers Conference*, 3390-3390.
